@@ -4,7 +4,7 @@
 title: Arun Karunagath
 url: 'https://www.karunagath.in'
 
-baseurl: '/online-cv' 
+#baseurl: '/' 
 
 description: Arun Karunagath's personal website
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
